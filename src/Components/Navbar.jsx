@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <NavbarStyled>
             <div className="logo">
-                <img src="../image/logo2.png" alt="..img" />
+                <img src="image/logo2.png" alt="..img" />
             </div>
             <ul className="nav-items">
                 <li>
