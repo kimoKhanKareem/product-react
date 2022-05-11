@@ -29,11 +29,11 @@ const GradientCard = ({ image, avatar, name, price, title, ctaButtonH }) => {
                         </p>
                         <div className="duration">
                             <p>
-                                <img  src= '/image/time.svg'   alt="..." />
+                                <img  src= 'image/time.svg'   alt="..." />
                                  7 Hours Age
                             </p>    
                             <p> 
-                                <img  src= '/image/heart.svg'  alt="..." />
+                                <img  src= 'image/heart.svg'  alt="..." />
                                 150 likes
                             </p>
                         </div>
