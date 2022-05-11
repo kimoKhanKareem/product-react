@@ -39,7 +39,7 @@ const BlogSection = () => {
 const BlogSectionStyled = styled.section`
 .blogs{
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    grid-template-columns: repeat(4,1fr);
     grid-gap: 2%;
     padding-top: 2%;
     .blog{
