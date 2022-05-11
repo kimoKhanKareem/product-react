@@ -26,7 +26,7 @@ const Header = () => {
                 </div>
             </div>
             <div className="right">
-                <img src="../image/bchain.png" alt="..img" />
+                <img src="image/bchain.png" alt="..img" />
             </div>
 
         </SHeader>
