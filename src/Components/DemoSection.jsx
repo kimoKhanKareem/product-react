@@ -18,7 +18,7 @@ const DemoSection = () => {
                     <GradientCard image={'image/person.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'}  ctaButtonH={ctaButtonH}/>
                     <GradientCard image={'image/person3.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'}  ctaButtonH={ctaButtonH}/>
                     <GradientCard image={'image/computer.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'} ctaButtonH={ctaButtonH} />
-                    <GradientCard image={'/image/bitcoin2.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'} ctaButtonH={ctaButtonH}/>
+                    <GradientCard image={'image/bitcoin2.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'} ctaButtonH={ctaButtonH}/>
                     <GradientCard image={'image/bitcoin.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'}  ctaButtonH={ctaButtonH}/>
                     <GradientCard image={'image/person.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'} ctaButtonH={ctaButtonH}/>
                     <GradientCard image={'image/bitcoin2.jpg'} avatar={'image/avatar.png'} name={'@Joel Clock'} price={'0.067 ETH'} title={'Just a dummy title'} ctaButtonH={ctaButtonH}/>
