@@ -41,7 +41,6 @@ transition: all .4s ease-in-out;
             margin-right: 5%;
             object-fit: cover;
         }
-
     }
 }
 `;

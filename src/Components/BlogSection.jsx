@@ -40,7 +40,7 @@ const BlogSectionStyled = styled.section`
 .blogs{
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    grid-gap: 2%;
+    grid-gap: 3%;
     padding-top: 2%;
     .blog{
         background: rgb(255, 255, 255, 0.03);
