@@ -31,7 +31,7 @@ const BodyContent = () => {
 const BodyContentStyled =styled.section`
 .sallerCards{
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    grid-template-columns: repeat(4,1fr);
     grid-gap: 3%;
     margin: 4% 0;
 }
