@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/product-react/static/js/main.8393b8f6.chunk.js",
-    "main.js.map": "/product-react/static/js/main.8393b8f6.chunk.js.map",
+    "main.js": "/product-react/static/js/main.24aca25d.chunk.js",
+    "main.js.map": "/product-react/static/js/main.24aca25d.chunk.js.map",
     "runtime-main.js": "/product-react/static/js/runtime-main.238a2feb.js",
     "runtime-main.js.map": "/product-react/static/js/runtime-main.238a2feb.js.map",
     "static/js/2.a1f1447e.chunk.js": "/product-react/static/js/2.a1f1447e.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.238a2feb.js",
     "static/js/2.a1f1447e.chunk.js",
-    "static/js/main.8393b8f6.chunk.js"
+    "static/js/main.24aca25d.chunk.js"
   ]
 }
